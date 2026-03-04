@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Yudistio Izza 👋
 
-<!--
-**Yudistioizza/Yudistioizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Fullstack Web Developer** with experience in **JavaScript, React, Node.js, Laravel, PHP, MySQL**, and building dynamic web applications. I enjoy turning ideas into real-world solutions and learning new tech every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+**Frontend:** React.js, JavaScript, HTML, CSS,
+**Backend:** Node.js, Laravel, PHP  
+**Database & Tools:** MySQL, PostgreSQL, Git, Livewire, AdminLTE  
+
+---
+
+## 💻 Portfolio
+- **Manajemen Kos** – Interactive room booking: [GitHub](https://github.com/Yudistioizza/skripsi_kos)  
+---
+
+## 📫 Contact Me
+- Email: [yudistio@example.com](mailto:yudistioizza@gmail.com)  
+- LinkedIn: [linkedin.com/in/yudistio](https://www.linkedin.com/in/yudistio-izza-al-farisi/)  
+---
