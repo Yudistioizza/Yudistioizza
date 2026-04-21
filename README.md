@@ -1,85 +1,111 @@
-# Hi, I'm Yudistio Izza Al Farisi 👋
+<div align="center">
 
-💻 Fullstack Web Developer | Backend Enthusiast  
-🎓 Informatics Student at Universitas Singaperbangsa Karawang  
-🚀 Passionate about building scalable web applications & solving real-world problems  
+# Yudistio Izza Al Farisi
 
----
+**Fullstack Web Developer · Backend Enthusiast · Informatics Student**
 
-## 👨‍💻 About Me
-I am a Fullstack Web Developer with a strong focus on backend development and system architecture.  
-I have experience building enterprise-level web applications, integrating APIs, and designing database systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudistio-izza-al-farisi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yudistioizza@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Yudistioizza)
+![Profile Views](https://komarev.com/ghpvc/?username=Yudistioizza&style=flat-square&color=239ba7&label=Profile+Views)
 
-During my internship at **PT Mineral Industri Indonesia (MIND ID)**, I worked on:
-- Developing a **Laravel-based portal system** integrating multiple Tableau dashboards
-- Designing **PostgreSQL database schemas** with audit trail & role-based access control
-- Building **secure and scalable web applications** for internal enterprise use
-
-I enjoy turning complex problems into simple, efficient, and maintainable solutions.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### 💡 Frontend
-- React.js  
-- JavaScript (ES6+)  
-- HTML5, CSS3  
-- Tailwind CSS  
-- AdminLTE  
+I am a Fullstack Web Developer based in Bekasi, Indonesia, with a strong focus on backend development and system architecture. Currently completing my undergraduate thesis (skripsi) at **Universitas Singaperbangsa Karawang (UNSIKA)**, Informatics — Class of 2021.
 
-### ⚙️ Backend
-- Node.js (Express)  
-- Laravel (PHP)  
-- REST API Development  
-- Authentication (JWT, RBAC)  
+My work centers on building enterprise-grade web applications: clean database design, secure API architecture, and maintainable codebases. I believe good software is not just functional — it is structured, scalable, and built with intention.
 
-### 🗄️ Database & Tools
-- PostgreSQL  
-- MySQL  
-- Git & GitHub  
-- Livewire  
-- Linux (Ubuntu)  
+Previously, I completed a one-year internship at **PT Mineral Industri Indonesia (MIND ID)**, a state-owned mining holding company, where I contributed to three internal enterprise systems used across the organization.
 
 ---
 
-## 📂 Featured Project
+## Experience
 
-### 🏠 Manajemen Kos (Web-Based Boarding House System)
-🔗 Repository: https://github.com/Yudistioizza/skripsi_kos  
+**PT Mineral Industri Indonesia (MIND ID)** — Internship, 2023–2024
 
-A web-based system built using **Laravel + PostgreSQL** for managing boarding house operations.
+State-owned mining holding company under the Indonesian Ministry of SOEs.
 
-#### Key Features:
-- 🎯 Interactive room layout (like cinema seat booking)
-- 📊 Transaction management (income & expenses)
-- 👥 Tenant management system
-- 🔐 Role-based access control
-- 📑 Audit trail system
-
-#### Tech Used:
-`Laravel` `Livewire` `PostgreSQL` `Tailwind CSS`
+- **Portal Aplikasi** — Built a centralized internal application portal using React, Laravel, Node.js, and PostgreSQL with role-based access control and audit trail.
+- **Portal Tableau** — Developed a C-Level executive dashboard portal integrating Tableau Server API, enabling data visualization for strategic decision-making.
+- **CSIRT Website** — Built and maintained the company's cybersecurity incident response team website using WordPress.
 
 ---
 
-## 📈 What I’m Currently Learning
-- System Design & Scalable Architecture  
-- Backend Optimization  
-- Clean Code & Best Practices  
-- Advanced API Integration  
+## Tech Stack
+
+**Frontend**
+`React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS` `Livewire` `AdminLTE`
+
+**Backend**
+`Laravel (PHP)` `Node.js (Express)` `REST API` `JWT` `RBAC`
+
+**Database & Infrastructure**
+`PostgreSQL` `MySQL` `Linux (Ubuntu)` `Git & GitHub`
+
+**CMS & Others**
+`WordPress` `Shopify` `Tableau API`
 
 ---
 
-## 🤝 Let's Connect
-- 📧 Email: yudistioizza@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/yudistio-izza-al-farisi/  
-- 💻 GitHub: https://github.com/Yudistioizza  
+## Featured Project
+
+### Manajemen Kos — Web-Based Boarding House System
+
+> Undergraduate thesis project · Laravel · PostgreSQL · Livewire · Tailwind CSS
+
+A full-featured boarding house management system built for real-world operational use.
+
+- Interactive room layout with visual seat-selection (similar to cinema booking)
+- Transaction management covering income, expenses, and financial reporting
+- Tenant lifecycle management with contract and payment tracking
+- Role-based access control with a complete audit trail system
+- Built using the **Prototyping** development methodology
+
+**Repository:** [github.com/Yudistioizza/skripsi_kos](https://github.com/Yudistioizza/skripsi_kos)
 
 ---
 
-## ⚡ Fun Fact
-I enjoy building systems that are not just functional, but also **structured, scalable, and production-ready**.
+## Certifications & Training
+
+| Issuer | Program |
+|---|---|
+| Dicoding | Web Development & Backend Certifications |
+| IBM SkillsBuild | Technology & Professional Skills |
+| Digitalent Kominfo | Digital Talent Scholarship |
+| MIND ID (Internship) | Enterprise Software Development, 1 Year |
 
 ---
 
-⭐ *Feel free to explore my repositories and collaborate!*
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yudistioizza&show_icons=true&theme=default&hide_border=true&title_color=239ba7&icon_color=239ba7&text_color=333333&bg_color=ffffff&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudistioizza&layout=compact&theme=default&hide_border=true&title_color=239ba7&text_color=333333&bg_color=ffffff&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yudistioizza&theme=default&hide_border=true&ring=239ba7&fire=239ba7&currStreakLabel=239ba7)
+
+</div>
+
+---
+
+## Currently Learning
+
+- System Design & Scalable Architecture
+- Backend Optimization & Performance Tuning
+- Agentic AI Integration for Web Applications
+- Clean Code, Design Patterns & Best Practices
+
+---
+
+<div align="center">
+
+*Open to full-time roles and freelance collaborations.*
+*Feel free to explore my repositories or reach out directly.*
+
+</div>
