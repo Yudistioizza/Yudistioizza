@@ -13,7 +13,9 @@
       <h3>My code works. I don't know why.</h3>
     </td>
     <td valign="middle" align="right" width="180">
+      <a href="#">
       <img src="https://github.com/Yudistioizza/Yudistioizza/blob/main/pixelated_me.jpeg?raw=true" alt="Yudis Pixel" width="160" />
+      </a>
     </td>
   </tr>
 </table>
